@@ -15,6 +15,7 @@ public class Main {
 //		
 //		validator.validate(concreteDomain);
 
+		System.out.println("test change");
 	}
 
 }
